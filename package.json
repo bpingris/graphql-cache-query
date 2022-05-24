@@ -1,0 +1,11 @@
+{
+  "name": "gql-cache-idea",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "graphql-request": "^4.2.0"
+  },
+  "type": "module"
+}
